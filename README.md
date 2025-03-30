@@ -1,2 +1,3 @@
 # AI-financial-assistant
-AI to help you manage your funds, i think.
+
+I have literally 0 vision how this is going to turn out.
